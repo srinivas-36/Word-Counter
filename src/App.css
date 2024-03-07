@@ -1,0 +1,11 @@
+.list{
+    width: 80%;
+}
+
+.search .button{
+    display: flex;
+    flex-direction: row;
+    /* padding: 0 5px; */
+    text-decoration: none;
+    margin: 0 10px;
+}
